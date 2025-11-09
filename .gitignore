@@ -1,0 +1,32 @@
+# Android/IntelliJ
+*.iml
+.gradle/
+.local.properties
+/.idea/
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+
+# Build
+/build/
+/app/build/
+/captures/
+/externalNativeBuild/
+/.cxx/
+
+# Gradle wrapper
+/gradlew
+/gradlew.bat
+/gradle/
+/daemon/
+/caches/
+/native/
+/kotlin-profile/
+/wrapper/
+
+# Misc
+local.properties

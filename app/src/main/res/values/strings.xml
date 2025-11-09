@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="error">Ошибка</string>
+    <string name="ok">OK</string>
+    <string name="logout">Выйти</string>
+    <string name="send">Отправить</string>
+    <string name="message">Сообщение</string>
+    <string name="select_chat">Выберите чат</string>
+    <string name="loading">Загрузка...</string>
+    <string name="retry">Повторить</string>
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+    <string name="image">Изображение</string>
+    <string name="image_preview">Просмотр изображения</string>
+</resources>
